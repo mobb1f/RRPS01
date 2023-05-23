@@ -1,5 +1,5 @@
 ### Лабораторна робота №1 з РРПС
-https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png![image](https://github.com/mobb1f/RRPS01/assets/112617505/766ca82a-8b3e-470d-98ee-c8d9e39ff88d)
+(https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png![Uploading image.png…])
 Виконання лабораторної роботи передбачає вивчення прийомів роботи з системою контролю версій Git:
 + створення віддаленого репозиторію;
 + клонування віддаленого репозиторію;
